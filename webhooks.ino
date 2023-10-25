@@ -2,7 +2,7 @@
 #include <WiFiNINA.h>
 
 // Replace with your WiFi credentials
-char ssid[] = "Kartik";
+char ssid[] = "sahaj";
 char pass[] = "12345678";
 
 // ThingSpeak settings
